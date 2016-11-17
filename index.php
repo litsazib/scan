@@ -5,7 +5,7 @@
 <div class="victor">
 <div class="container">
 <div class="what-we-do container">
-    <h1 class="center" style="font-weight: 400; line-height:1.9em;">What We Do</h1>
+    <h1 class="center" style="font-weight: 400; line-height:1.9em;">WE SPECIALIZED IN</h1>
       <ul class="clearfix">      
         <li class="what-domains">
           <a href="/domain-registration">
@@ -40,7 +40,7 @@
             <img src="images/whatwedo/domains.jpg">
           </div>
           </a>
-          <a href="domain-registration" class="text-link">Domains</a>
+          <a href="domain-registration" class="text-link">Web Design</a>
         </li>
         
         <li class="what-hosting">
@@ -97,7 +97,7 @@
             <img src="images/whatwedo/dedicated-servers.jpg">
           </div>
           </a>
-          <a href="dedicated-servers/overview" class="text-link">Dedicated Servers</a>
+          <a href="dedicated-servers/overview" class="text-link">Web Hosting</a>
         </li>
         
         <li class="what-vps">
@@ -139,11 +139,11 @@
             <img src="images/whatwedo/website-builder.jpg">
           </div>
           </a>
-          <a class="text-link">Website Builder</a>
+          <a class="text-link">Web Application</a>
         </li>
         
         <li class="what-support">
-          <a href="contact-us" class="text-link">SEO</a>  
+          <a href="contact-us" class="text-link">Web Promotion</a>  
           <a href="contact-us">
           <div class="dot-bg">  
           <img src="images/whatwedo/support.jpg">

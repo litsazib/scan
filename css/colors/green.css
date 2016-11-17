@@ -14,7 +14,7 @@
 }
 .site_wrapper ul.nav>li>a:hover {
 	color:#3fc35f;
-	transition: all 0.3s ease;
+	/* transition: all 0.3s ease; */
 }
 .site_wrapper ul.nav .dropdown li:hover a.active {
 	color: #3fc35f;
