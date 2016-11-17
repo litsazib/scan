@@ -1,4 +1,18 @@
-/* Menu */
+/* svg icon */
+.svg-icon img:hover{
+	background-image: url('../images/icon/seo_hover.jpg');
+}
+
+
+
+
+
+
+
+
+
+
+
 /* CUSTOM SLIDER ICON BG */
 .icon_bg img{
 	background-attachment: scroll;
