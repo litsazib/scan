@@ -1,0 +1,5 @@
+RewriteEngine On
+
+RewriteRule ^post/([a-zA-Z0-9-/]+)$ post.php?post_url=$1
+RewriteRule ^post/([a-zA-Z0-9-/]+)/ post.php?post_url=$1
+
