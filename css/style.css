@@ -15,18 +15,11 @@
 	background: #fff;
 }
 .dropdown span {
-  /* color: #FCBA63; */
   font-size: 25px;
- /*  border: 1px solid #fff;
   padding: 5px;
   border-radius: 5px; */
 
 }
-/* .dropdown span:hover{
-	background-color: #e433b666;
-	color: #FFF;
-	transition: all ease 0.9s;
-} */
 .offer{
 	background: #2a363f none repeat scroll 0 0;
     float: left;
@@ -545,7 +538,8 @@
 
 
 .slidermar {
-	margin-top:-50px
+	/* margin-top:-50px */
+  margin-top: -103px;
 }
 
 

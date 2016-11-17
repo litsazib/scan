@@ -55,28 +55,28 @@ session_start();
        <li class="dropdown"> <a href="service.php" class="dropdown-toggle">Maga</a>
           <ul class="dropdown-menu megamenu" role="menu">
             <li>
-                <h4>Your Title</h4>
+                <h4>Web Design</h4>
                 <a href="#">Web Design</a>
                 <a href="#">Web Design</a>
                 <a href="#">Web Design</a>
                 <a href="#">Web Design</a>
             </li>
             <li>
-                <h4>Your Title</h4>
+                <h4>Mobile Apps</h4>
                 <a href="#">Web Design</a>
                 <a href="#">Web Design</a>
                 <a href="#">Web Design</a>
                 <a href="#">Web Design</a>
             </li>
             <li>
-                <h4>Your Title</h4>
+                <h4>SEO</h4>
                 <a href="#">Web Design</a>
                 <a href="#">Web Design</a>
                 <a href="#">Web Design</a>
                 <a href="#">Web Design</a>
             </li>
             <li>
-                <h4>Your Title</h4>
+                <h4>Web Hosting</h4>
                 <a href="#">Web Design</a>
                 <a href="#">Web Design</a>
                 <a href="#">Web Design</a>

@@ -1,19 +1,4 @@
 /* Maga-Menu */
-/* .navMenu{width:100%;background:#000;float:left;font-size:20px;}
-.navMenu ul{margin:0;padding: 0;list-style: none;position: relative;}
-.navMenu ul li{float:left;display:inline-block;padding: 10px;}
-.navMenu ul li:hover{background: #4e99d2;color:#000;}
-.navMenu ul li:hover,.navMenu>ul>li:hover>a{background: #4e99d2;color:#000;}
-
-
-.navMenu ul li ul.megamenu{width:100%;padding: 20px 20px;background-color:#666;position: absolute;display: none;}
-.navMenu ul li:hover ul.megamenu{display: block;}
-.navMenu ul li:hover ul.megamenu li{width: 180px;margin-right: 40px;float:left;}
-.navMenu ul li:hover ul.megamenu li a{padding: 10px;background: green;}
-.navMenu ul li:hover ul.megamenu li a:hover{background-color:#ff00ff;background: gray;} */
-
-
-
 .megamenu {
 	/* background: #ABA59A4D; */
 	background: #FFF;
@@ -33,9 +18,7 @@
 ul.nav>li>a:hover {
 	color:#7399e7;
 	/* transition: all 0.3s ease; */
-
 }
-
 ul.nav .dropdown li a.active,
 ul.nav .dropdown li a.active i {
 	color: #7399e7;
@@ -43,7 +26,6 @@ ul.nav .dropdown li a.active i {
 ul.nav .dropdown li:hover a.active {
 	color: #7399e7;
 }
-
 .dropdown-menu>.active>a,
 .dropdown-menu>.active>a:hover,
 .dropdown-menu>.active>a:focus {
@@ -57,7 +39,6 @@ ul.nav .dropdown li:hover a.active {
 .mega-menu-contnew .section-box a.active i {
 	color: #7399e7;
 }
-
 
 .list-unstyled a.active {
     color: #393939;

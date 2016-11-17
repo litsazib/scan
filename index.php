@@ -211,14 +211,11 @@
                 c-0.521,1.045-0.947,1.986-1.496,3.003l-2.166,3.522v0.051H66.222L66.222,37.287z"/>
                 </g>
               </svg>
-            </div> <!-- /.svg-icon -->
+            </div> 
           </a>
         </li>        
       </ul> 
-      <div class="container">
-            <p style="font-size: medium;padding-top:4%;font-family: roboto;font-weight: 400;text-align: justify;">HostBreak Web Technologies has revolutionized web hosting with its quality of services and affordable packages. Regardless of the size of your business, we Hostbreak offers variety of web hosting plans to cater your hosting needs/demands. HostBreak Web Technologies provides offers wide range of hosting options like shared server, dedicated server, VPS and much more. Our flexible web hosting plans are available on Linux and Windows with an instant access to 50+ free applications such as wordpress blog, joomla, Xcart, chat, social media and so on. More than it’s just hosting, we offer complete package of business solutions. We can help you in starting your website from scratch. We have best teams of website developers, designers and marketers. Leave an unforgettable impact on your visitors and customers.<br>Our services stand apart from others as we don’t believe in just hosting websites, apps or servers but in serving our customers. Off course, we provide best web hosting services due to our top-notch hardware, guaranteed 99.999% uptime, flexibility and scalability. But, all of our plans are customized according to our customer needs and objectives. We are experts in serving our customers the way they want.
-</p>
-            </div>
+ 
     </div>
    </div>   
 </div>
