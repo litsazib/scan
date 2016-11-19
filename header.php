@@ -52,9 +52,9 @@ session_start();
       <div id="navbar-collapse-1" class="navbar-collapse collapse pull-right">
       <nav>            
         <ul class="nav navbar-nav"> 
-       <li class="dropdown"> <a href="service.php" class="dropdown-toggle"><i class="fa fa-bars"></i></a>
+       <li class="dropdown"> <a href="#submenu" class="dropdown-toggle"><i class="fa fa-bars"></i></a>
        
-          <ul class="dropdown-menu megamenu" role="menu">
+          <ul class="dropdown-menu megamenu" role="menu" id="#submenu">
             <li>
                 <h4>Web Design</h4>
                 <a href="#">Web Design</a>
