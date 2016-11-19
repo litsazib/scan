@@ -688,6 +688,51 @@
 
 
 @media only screen and (max-width: 479px){
+.slidermar {
+  margin-top: 0px;
+}
+.logo {
+  margin-top: -18px !important;
+}
+.victor{
+	margin-top:0px !important;
+}
+.header {
+  background: rgba(255, 255, 255, 0.8) none repeat scroll 0 0;
+  display: block;
+  height: 80px !important;
+  left: 0;
+  position: static !important;
+  top: 0 !important;
+  width: 100%;
+  z-index: 9000 !important;
+}
+.site_wrapper ul.nav > li > a:hover{
+	background: transparent !important;
+}
+.home-what-we-do-inner-left {
+  float: none;
+  text-align: center;
+}
+.home-what-we-do-inner-left li strong {
+  float: none;
+}
+.home-what-we-do-inner-right li {
+  float: none;
+  text-align: center;
+}
+.home-what-we-do-inner-right strong {
+  float: none;
+}
+.center_s{
+	font-size: 25px;
+}
+
+
+
+
+
+
 
 /* columns */
 .one_half, .one_third, .one_fourth, .two_third, .three_fourth, .one_fifth, .onecol_forty, .onecol_sixty, .onecol_thirtyfive,
