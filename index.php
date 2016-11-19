@@ -4,7 +4,7 @@
 <div class="victor">
 <div class="container">
 <div class="what-we-do container">
-    <h1 class="center" style="font-weight: 400; line-height:1.9em;">WE SPECIALIZED IN</h1>
+     <h1 class="center" style="font-weight: 400; line-height:1.9em;">WE SPECIALIZED IN</h1>
       <ul class="clearfix">      
         <li class="what-domains">
           <a href="/domain-registration">

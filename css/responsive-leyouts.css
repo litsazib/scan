@@ -686,7 +686,7 @@
 
 
 
-
+/* SAZIB Responsive Code Hear */
 @media only screen and (max-width: 479px){
 .slidermar {
   margin-top: 0px;
@@ -727,8 +727,11 @@
 .center_s{
 	font-size: 25px;
 }
-
-
+/* .center {
+  font-size: 24px;
+  margin-top: 27px;
+  text-align: center;
+} */
 
 
 
