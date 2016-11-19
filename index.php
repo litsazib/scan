@@ -1,7 +1,6 @@
 <?php require_once('header.php'); ?>
 <div class="clearfix"></div>
 <?php require_once('indexslider.php') ?>
-
 <div class="victor">
 <div class="container">
 <div class="what-we-do container">
@@ -35,7 +34,7 @@
                 c5.285,3.398,9.279,8.575,11.088,14.658L23.869,43.261L23.869,43.261z"/>
               </svg>
 
-            </div> <!-- /.svg-icon -->
+            </div> 
           <div class="dot-bg">
             <img src="images/whatwedo/domains.jpg">
           </div>
@@ -226,27 +225,15 @@
     </div>
 </div> -->
 
-
-
-
-
-
-
-
-
-
-
-
-
 <!-- START eSite SECTION -->
 <div class="feature_section2 eSite">
   <div class="container">
   <div class="row">
-    <div class="col-md-6 pb20">
+    <div class="col-md-4 pb20">
       <div class="clearfix p100"></div>   
       <img src="images/mobile.png" alt="">
     </div> 
-    <div class="col-md-6">
+    <div class="col-md-8 text_color">
     <div class="clearfix margin_bottom7"></div>
     <div class="esite_dtl">
       <h2>Welcome to<strong> eSiteWorld</strong></h2>

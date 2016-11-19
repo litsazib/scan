@@ -86,8 +86,6 @@ session_start();
           </ul>
         </li>
 
-
-        <!-- end mega menu -->
          <li class="dropdown"> <a href="index.php" class="dropdown-toggle ">Home</a></li>
          <li class="dropdown"> <a href="about.php" class="dropdown-toggle">About Us</a></li>
 				 <li class="dropdown"> <a href="service.php" class="dropdown-toggle">Our Services</a>

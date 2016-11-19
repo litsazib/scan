@@ -54,7 +54,7 @@
     padding: 15px;
 }
 .feature_section2.eSite {
-  background-image: url("../images/servicebgdd.jpg");
+  background-image: url("../images/site-img31.jpg");
   background-position: center center;
   background-repeat: repeat-y !important;
   background-size: cover;
@@ -84,6 +84,9 @@
 	padding-top: 30px;
 	color: #fff;
 	text-align: center;
+}
+.text_color p{
+	color:#fff;
 }
 .we_do_dtl{
 	padding-top: 50px;
