@@ -7,12 +7,16 @@
 	padding: 20px;
 	position: absolute;
 	width: 1355px;
+
 }
 .megamenu li{width: 200px;margin-right: 100px;float:left;color:#FFF;}
 .megamenu li h5{color:#272822;text-align: center;}
 .megamenu li a{padding: 10px;float:left;color:#FFF;}
 .megamenu li a:hover{}
 
+.navbar-nav > li > .dropdown-menu {
+	margin-top: 19px !important;
+}
 
 
 ul.nav>li>a:hover {

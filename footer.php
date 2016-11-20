@@ -50,8 +50,7 @@
             <li><a href="responsive-web-d.php">About us</a></li>
             <li><a href="e-com-web-d.php">Our Service</a></li>
             <li><a href="psdt.php.php">Blog</a></li>
-            <li><a href=.php-to-wordpress-designing.php">Contac us</a></li>
-			<li><a href="brochure-designing.php">Brochure Designing</a></li>
+            <li><a href="php-to-wordpress-designing.php">Contac us</a></li>
 			<li><a href="online-store-web-designing.php">Online Store Website Designing</a></li>
         </ul>
 	</div>    

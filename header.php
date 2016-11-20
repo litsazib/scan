@@ -52,7 +52,8 @@ session_start();
       <div id="navbar-collapse-1" class="navbar-collapse collapse pull-right">
       <nav>            
         <ul class="nav navbar-nav"> 
-       <li class="dropdown"> <a href="service.php" class="dropdown-toggle"><i class="fa fa-bars"></i></a>
+        <li class="dropdown"> 
+        <a href="#" class="dropdown-toggle btttom"><i class="fa fa-bars"></i></a>
        
           <ul class="dropdown-menu megamenu" role="menu">
             <li>
