@@ -6,23 +6,15 @@
 		<img class="ms-layer" alt="bootstrap conversion" style="top:214.536px; right:454.086px"
          data-offset-x      = "10"
          data-offset-y      = "15"
-         data-type          = "image"  
-         data-effect="scale(1.5,1.6)"
-         data-duration="1800"   
-         data-delay="700" 
-         src="masterslider/blank.gif"
-         data-src="images/sourservice.png"
+         data-type          = "image"           
+         data-delay="700"
+         data-ease="easeOutExpo" 
+         data-duration="1800"
+         data-effect="scale(5,1.6)"
+         data-src="images/inner_slider/ASCENT_AREAS_MAP_V2.png"
         />
-<!--       <a href="#" class="ms-layer sbut1 white"
-      style="left: 75px; top: 430px;"
-      data-type="text"
-      data-delay="700"
-      data-ease="easeOutExpo"
-      data-duration="1800"
-      data-effect="scale(1.5,1.6)">
-      Details            
-    </a>  -->   
-<img class="ms-layer" alt="bootstrap conversion" style="top:328.536px; left:217.086px"
+ 
+<img class="ms-layer" alt="bootstrap conversion" style="top:204.051px; left:217.086px"
          data-offset-x      = "10"
          data-offset-y      = "15"
          data-type          = "image"
@@ -30,7 +22,7 @@
          data-duration      = "1800"
          data-ease          = "easeOutQuart"
          data-effect="scale(1.5,1.6)"         
-         data-src="images/mobile.png"/> 
+         data-src="images/inner_slider/all_service.png"/> 
 
 
 

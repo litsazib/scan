@@ -1,6 +1,6 @@
 <?php require_once('header.php'); ?>
 <div class="clearfix"></div>
-<?php require_once('inner_slider.php') ?>
+<?php require_once('inner_sliders/mobile_app_dev.php') ?>
 <div class="clearfix margin_bottom5"></div>
 <div class="container">
   <h1 class="center_s">Our Services</h1>

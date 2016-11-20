@@ -1,7 +1,7 @@
 <?php 
 $title="About us";  //Page title
 require_once('header.php'); ?>
-
+<?php require_once('inner_sliders/about-us.php') ?>
 <div class="clearfix margin_bottom7"></div>
 <div class="container">
   <h1 class="center_s">About us</h1>
