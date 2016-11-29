@@ -19,22 +19,7 @@
   <div class="">
     <h1 class="center_s">Our Technology</h1>
   </div>
- <div id="owl-demo" class="owl-carousel">    
-        <div class="item"><img src="images/html.jpg" alt="" /></div>        
-        <div class="item"><img src="images/php.png" alt="" /></div>        
-        <div class="item"><img src="images/mongodb.png" alt="" /></div>        
-        <div class="item"><img src="images/angular.png" alt="" /></div>   
-         <div class="item"><img src="images/node.png" alt="" /></div>        
-        <div class="item"><img src="images/larable.png" alt="" /></div>        
-        <div class="item"><img src="images/gulp.jpg" alt="" /></div>        
-        <div class="item"><img src="images/codiginater.jpg" alt="" /></div>
-        <div class="item"><img src="images/wp.png" alt="" /></div> 
-        <div class="item"><img src="images/git.png" alt="" /></div>        
-        <div class="item"><img src="images/less-sass.jpg" alt="" /></div>
-        <div class="item"><img src="images/phonegap.png" alt="" /></div> 
-        <div class="item"><img src="images/drupal.png" alt="" /></div>        
-    </div>  
-  </div>
+ <?php require_once('inner_sliders/technology.php'); ?> 
   </div>
 <div class="clearfix margin_bottom3"></div> 
 <?php require_once('footer.php') ?>

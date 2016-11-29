@@ -157,75 +157,6 @@
     </div>
    </div>   
 </div>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-<!-- <div class="feature_section1 sty2">
-<div class="container">
-	<h2 class="caps"><strong>What makes our work is Best?</strong></h2>
-	<div class="clearfix margin_bottom3"></div>    
-    <div class="one_third animate" data-anim-type="fadeIn" data-anim-delay="200">
-    	<i class="fa fa-rocket"></i>
-		<div class="icon_desc">
-	   <h4 class="light2">Skill Experts Team</h4>
-        <p class="custom_p">We have expert team members for each technology; just ask us what you need.</p>
-        </div>
-        <div class="clearfix margin_bottom5"></div>
-        <i class="fa fa-sliders"></i>
-        <div class="icon_desc">
-		<h4 class="light2">Project Progress Share with Client</h4>
-        <p class="custom_p">We follow a step-by-step process, both for development projects.</p>
-        </div>
-    </div>
-    <div class="one_third animate" data-anim-type="fadeIn" data-anim-delay="300">
-    	<i class="fa fa-lightbulb-o"></i>
-        <div class="icon_desc">
-		<h4 class="light2">Direct Communication to Team</h4>
-        <p class="custom_p">We have the ability to think from the client’s perspective.</p>
-        </div>
-        <div class="clearfix margin_bottom5"></div>
-        
-        <i class="fa fa-sitemap"></i>
-        <div class="icon_desc">
-		<h4 class="light2">Onsite Support and Installation</h4>
-        <p class="custom_p">We provide 24 x 7 support to our clients, no matter what occasion it is.</p>
-        </div>
-        <div class="clearfix margin_bottom5"></div>        
-    </div>    
-    
-    <div class="one_third last animate" data-anim-type="fadeIn" data-anim-delay="400">
-    	 <i class="fa fa-tachometer"></i>
-        <div class="icon_desc">
-		<h4 class="light2">On Time Delivery</h4>
-        <p class="custom_p">We have a track record of 100% client satisfaction.</p>
-        </div>
-        <div class="clearfix margin_bottom5"></div>        
-        <i class="fa fa-bullhorn"></i>
-		<div class="icon_desc">
-        <h4 class="light2">Follows Latest Web Standard</h4>
-        <p class="custom_p">Our vast skill set and proven competency in each of the technologies.</p>
-        </div>
-        <div class="clearfix margin_bottom5"></div>       
-    </div>
-    </div>
-</div> -->
-
-<!-- START eSite SECTION -->
 <div class="feature_section2 eSite">
   <div class="container">
   <div class="row">
@@ -326,21 +257,7 @@
   <div class="">
     <h1 class="center_s">Our Technology</h1>
   </div>
- <div id="owl-demo" class="owl-carousel">    
-        <div class="item"><img src="images/html.jpg" alt="" /></div>        
-        <div class="item"><img src="images/php.png" alt="" /></div>        
-        <div class="item"><img src="images/mongodb.png" alt="" /></div>        
-        <div class="item"><img src="images/angular.png" alt="" /></div>   
-         <div class="item"><img src="images/node.png" alt="" /></div>        
-        <div class="item"><img src="images/larable.png" alt="" /></div>        
-        <div class="item"><img src="images/gulp.jpg" alt="" /></div>        
-        <div class="item"><img src="images/codiginater.jpg" alt="" /></div>
-        <div class="item"><img src="images/wp.png" alt="" /></div> 
-        <div class="item"><img src="images/git.png" alt="" /></div>        
-        <div class="item"><img src="images/less-sass.jpg" alt="" /></div>
-        <div class="item"><img src="images/phonegap.png" alt="" /></div> 
-        <div class="item"><img src="images/drupal.png" alt="" /></div>        
-    </div>  
+<?php require_once('inner_sliders/technology.php'); ?>  
   </div>
   </div>
 <?php require_once('footer.php') ?>
