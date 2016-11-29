@@ -37,6 +37,41 @@
       <div id="navbar-collapse-1" class="navbar-collapse collapse pull-right">
       <nav>            
         <ul class="nav navbar-nav"> 
+        <li class="dropdown"> <a href="service.php" class="dropdown-toggle">More</a>
+          <ul class="dropdown-menu megamenu" role="menu">
+            <li>
+                <h4>Your Title</h4>
+                <a href="#">Web Design</a>
+                <a href="#">Web Design</a>
+                <a href="#">Web Design</a>
+                <a href="#">Web Design</a>
+            </li>
+            <li>
+                <h4>Your Title</h4>
+                <a href="#">Web Design</a>
+                <a href="#">Web Design</a>
+                <a href="#">Web Design</a>
+                <a href="#">Web Design</a>
+            </li>
+            <li>
+                <h4>Your Title</h4>
+                <a href="#">Web Design</a>
+                <a href="#">Web Design</a>
+                <a href="#">Web Design</a>
+                <a href="#">Web Design</a>
+            </li>
+            <li>
+                <h4>Your Title</h4>
+                <a href="#">Web Design</a>
+                <a href="#">Web Design</a>
+                <a href="#">Web Design</a>
+                <a href="#">Web Design</a>
+            </li>
+          </ul>
+        </li>
+
+
+<!-- end mega menu -->
          <li class="dropdown"> <a href="index.php" class="dropdown-toggle ">Home</a></li>
          <li class="dropdown"> <a href="about.php" class="dropdown-toggle">About Us</a></li>
 				 <li class="dropdown"> <a href="service.php" class="dropdown-toggle">Our Services</a>
