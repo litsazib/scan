@@ -5,8 +5,8 @@
 	slider.control('arrows');
 	slider.control('bullets');	
 	slider.setup('masterslider' , {
-		 width:1400,    // slider standard width
-		 height:600,   // slider standard height
+		 width:1400,    
+		 height:600,   
 		 space:0,
 		 speed:45,
 		 layout:'fullwidth',
@@ -17,7 +17,6 @@
 		 view:"parallax"
 	});
 })(jQuery);
-// ===============
 (function($) {
  "use strict";
 	var slider = new MasterSlider();
@@ -31,7 +30,6 @@
 		 autoplay:true
 	});
 })(jQuery);
-// ================
 	$('#slider').loopSlider({
 		autoMove : true,
 		mouseOnStop : true,

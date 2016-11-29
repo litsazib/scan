@@ -37,14 +37,14 @@ require_once('header.php'); ?>
     <h2 class="caps"><strong>Why Scan Bangladesh?</strong></h2>
     <h4 class="light">Now if you are still wondering why choose Scan Bangladesh for your software and web development needs, here’s the answer…</h4>
 	<ul class="why-us">
-    <li>We have a track record of 100% client satisfaction. Read our client testimonials here.</li>
-    <li>We provide affordable and cost effective solutions relevant to your business needs.</li>
-    <li>We provide 24 x 7 support to our clients, no matter what occasion it is.</li>
-    <li>We have expert team members for each technology; just ask us what you need.</li>
-    <li>We have the ability to think from the client’s perspective.</li>
+        <li>We have a track record of 100% client satisfaction. Read our client testimonials here.</li>
+        <li>We provide affordable and cost effective solutions relevant to your business needs.</li>
+       <li>We provide 24 x 7 support to our clients, no matter what occasion it is.</li>
+        <li>We have expert team members for each technology; just ask us what you need.</li>
+        <li>We have the ability to think from the client’s perspective.</li>
         <li>There is no place for “sub-standard” things in our organization.</li>
-    <li>We follow a step-by-step process, both for development projects.</li>
-</ul>
+        <li>We follow a step-by-step process, both for development projects.</li>
+    </ul>
  </div>
     
 	<div class="one_half last">
@@ -55,7 +55,8 @@ require_once('header.php'); ?>
 </div>
 </div>
 <div class="clearfix"></div>
-<div class="feature_section6 sty2">
+<div class="feature_section6 sty2"></div>
+<!--<div class="feature_section6 sty2">
 <div class="container">
 		<div class="less5">
     <div id="owl-demo20" class="owl-carousel">
@@ -64,14 +65,13 @@ require_once('header.php'); ?>
 			<br />
         	<strong>- Madan Lal Sharma</strong> &nbsp;<em>-Temple Officer, Mata Naina Devi Temple Trust</em>
             <p class="clearfix margin_bottom1"></p>
-        </div><!-- end slide -->
-        
+        </div>
         <div class="item">
         	<p class="bigtfont">"It was great getting work done from Cybrain Team. They worked wholeheartedly on the project without caring about their work schedules. I&#x2019;m simply amazed! "</p>
 			<br />
         	<strong>- Sunil Verma</strong> &nbsp;<em>-Secretary, HP Takniki Shiksha Board</em>
             <p class="clearfix margin_bottom1"></p>
-        </div><!-- end slide -->
+        </div>
         
         <div class="item">
         	<p class="bigtfont">"I’m glad to write this testimonial for Scan Bangladesh and its dedicated team. I can describe them and the work done by them is just two words, “Simply Awesome”! Be it the turnaround, quality or the concept understanding, I got the best from them. In fact, before writing all this, I’ve already recommended them to many of my friends. Keep up the good work!"</p>
@@ -82,6 +82,6 @@ require_once('header.php'); ?>
     </div>
     </div>
 </div>
-</div>
+</div> -->
 <div class="clearfix"></div>
 <?php require_once('footer.php') ?>
