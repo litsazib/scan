@@ -7,6 +7,7 @@
 	<meta name="description" content="" />
 	<link rel="shortcut icon" href="images/fav.ico">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link rel="stylesheet" href="http://codingavatar.com/scan/css/cress.css" type="text/css" />
   <link rel="stylesheet" href="css/reset.css" type="text/css" />
 	<link rel="stylesheet" href="css/style.css" type="text/css" />
   <link rel="stylesheet" href="css/font-awesome/css/font-awesome.min.css">
@@ -37,7 +38,7 @@
       <div id="navbar-collapse-1" class="navbar-collapse collapse pull-right">
       <nav>            
         <ul class="nav navbar-nav"> 
-        <li class="dropdown"> <a href="service.php" class="dropdown-toggle">More</a>
+        <li class="dropdown"> <a href="#" class="dropdown-toggle">More</a>
           <ul class="dropdown-menu megamenu" role="menu">
             <li>
                 <h4>Your Title</h4>
