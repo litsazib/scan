@@ -15,24 +15,7 @@
 	</div>
 
       <div class="ms-slide slide-1" data-delay="2">
-        <img src="images/sliders/slider-1.jpg" data-src="images/sliders/slider-1.jpg" alt="" />
-<!--  
-<img class="ms-layer" alt="bootstrap conversion" style="top:195.006px; left:217.086px" data-src="images/inner_slider/mov.png"
-         data-offset-x      = "10"
-         data-offset-y      = "15"
-         data-type          = "image"           
-         data-delay="700"
-         data-ease="easeOutExpo" 
-         data-duration="1800"
-         data-effect="scale(5,1.6)"        
-         data-src="images/inner_slider/mov.png"/> 
-    </div> -->
-
-   
-		
-		
-              
-	</div>
-   
+        <img src="images/sliders/slider-1.jpg" data-src="images/sliders/slider-1.jpg" alt="" />              
+	</div>  
 </div>
 </div>

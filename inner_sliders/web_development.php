@@ -26,7 +26,5 @@
          data-hide-effect ="top(long)"   
          data-src="images/inner_slider/web-development.png"/>
     </div>
-
-
    </div>
 </div>

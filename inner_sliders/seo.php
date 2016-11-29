@@ -12,13 +12,7 @@
          data-duration="1800"
          data-effect="scale(5,1.6)"        
          data-src="images/inner_slider/seo.png"/> 
-	</div>
-
-   
-		
-		
-              
-	</div>
-   
+	</div>              
+	</div>  
 </div>
 </div>

@@ -21,16 +21,7 @@
          data-duration      = "1800"
          data-ease          = "easeOutQuart"
          data-effect="scale(1.5,1.6)"         
-         data-src="images/inner_slider/ecommerce.png"/> 
-
-
-
- 
-
-
-		
-              
-	</div>
-   
+         data-src="images/inner_slider/ecommerce.png"/>               
+	</div>   
 </div>
 </div>

@@ -10,7 +10,6 @@ require_once('header.php'); ?>
 <div class="clearfix margin_bottom5"></div> 
 </div>
 <div class="clearfix"></div>
-<!-- SERVICE MAIN AREA -->
 <div class="feature_section4 p_less">
 <div class="container">
 <div class="col-md-4">
@@ -36,12 +35,10 @@ require_once('header.php'); ?>
   </div>
 </div>
 </div>
-<!-- START MID SERVICE -->
 <div class="col-md-4 center_img">
   <div class="clearfix margin_bottom5"></div> 
   <img alt="website design" src="images/service_icon/pc.png">
 </div>
-<!-- START RIGHT SERVICE -->
 <div class="col-md-4">
   <div class="icon_boxes">
     <a href=""><img src="images/service_icon/Custom-Programming.png"></a>
@@ -71,26 +68,6 @@ require_once('header.php'); ?>
 </div>
 
 </div>
-<!-- END SERVICE MAIN -->
-<!-- <div class="parallax_section5">
-<div class="container">    
-    <h1 class="caps white"><strong>What more we offer</strong></h1>
-	<div class="clearfix margin_bottom1"></div>  
-<ul class="other-servc">   
-<li><a href="ecommerce-web-development.php">E-commerce Web Development</a></li>
-<li><a href="php-web-d.php">PHP Web Development</a></li>
-<li><a href="custom-website-development.php">Custom Web Development</a></li>
-<li><a href="wordpress-website-development.php">Wordpress Development</a></li>
-<li><a href="prestashop-website-development-Bangladesh.php">Prestashop Web Development</a></li>
-<li><a href="cms-web-development.php">CMS Development</a></li>
-<li><a href="android-app.php">Android Applications Development</a></li>
-<li><a href="joomla-web-development.php">Joomla Web Development</a></li>
-</ul> 
-  
-</div>
-</div> -->
-<!-- <div class="clearfix margin_bottom5"></div> -->
-<!-- START TECHNOLOGY SECTION -->
 <div class="technology">
   <div class="container">
   <div class="">
@@ -109,7 +86,7 @@ require_once('header.php'); ?>
         <div class="item"><img src="images/git.png" alt="" /></div>        
         <div class="item"><img src="images/less-sass.jpg" alt="" /></div>
         <div class="item"><img src="images/phonegap.png" alt="" /></div> 
-        <div class="item"><img src="images/drupal.png" alt="" /></div>        
+        <div class="item"><img src="images/drupal.png" alt="" /></div>
     </div>  
   </div>
   </div>

@@ -23,18 +23,7 @@
          data-ease          = "easeOutQuart"
          data-effect="scale(1.5,1.6)"         
          data-src="images/inner_slider/all_service.png"/> 
-
-
-
-
-
-	</div>
-
-   
-		
-		
-              
-	</div>
-   
+	</div>             
+	</div>  
 </div>
 </div>

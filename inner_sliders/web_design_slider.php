@@ -12,8 +12,7 @@
          data-duration="1800"
          data-effect="scale(5,1.6)"
          data-src="images/inner_slider/smallmediumbusinessesPNGtf.png"
-        />
- 
+        /> 
 <img class="ms-layer" alt="bootstrap conversion" style="top:227.84px; left:136.086px"
          data-offset-x      = "10"
          data-offset-y      = "15"
@@ -24,13 +23,7 @@
          data-hide-effect ="top(long)"   
          data-src="images/inner_slider/streamline.png"/>
     </div>
-	</div>
-
-   
-		
-		
-              
-	</div>
-   
+	</div>             
+	</div>   
 </div>
 </div>

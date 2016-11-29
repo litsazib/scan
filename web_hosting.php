@@ -8,18 +8,12 @@
 <div class="clearfix margin_bottom5"></div> 
 </div>
 <div class="clearfix"></div>
-<!-- SERVICE MAIN AREA -->
 <div class="parallax_section5">
 <div class="container">    
     <h1 class="caps white"><strong>INNER PAGE CONTENT HEAR</strong></h1>
   <div class="clearfix margin_bottom1"></div>   
 </div>
 </div>
-<!-- END SERVICE MAIN -->
-
-
-
-<!-- START TECHNOLOGY SECTION -->
 <div class="technology">
   <div class="container">
   <div class="">

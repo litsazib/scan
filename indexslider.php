@@ -130,9 +130,6 @@
             Development             
         </h4>    
            
-  </div><!-- End slide 4 -->   
+  </div>  
 </div>
 </div>
-<!-- <div class="icon_bg">
-  <img src="images/slider_icon_bg.png" alt="">
-</div>  -->

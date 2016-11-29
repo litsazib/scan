@@ -11,9 +11,7 @@
          data-duration      = "1800"
          data-ease          = "easeOutQuart"
          data-hide-effect ="top(long)"   
-         data-src="images/inner_slider/webhosting.png"/>		
-              
-	</div>
-   
+         data-src="images/inner_slider/webhosting.png"/>             
+	</div>   
 </div>
 </div>
