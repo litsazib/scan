@@ -1,8 +1,7 @@
 <div class="slidermar sl_color">
 <div class="master-slider " id="masterslider">    
     <div class="ms-slide slide-1" data-delay="3">
-        <img src="images/sliders/slider-1.jpg" data-src="images/sliders/slider-2.jpg" alt="" />
- 
+        <img src="images/sliders/slider-1.jpg" data-src="images/sliders/slider-2.jpg" alt="" /> 
 <img class="ms-layer" alt="bootstrap conversion" style="top:195.006px; left:217.086px" data-src="images/inner_slider/mov.png"
          data-offset-x      = "10"
          data-offset-y      = "15"
@@ -13,7 +12,6 @@
          data-effect="scale(5,1.6)"        
          data-src="images/inner_slider/mov.png"/> 
 	</div>
-
       <div class="ms-slide slide-1" data-delay="2">
         <img src="images/sliders/slider-1.jpg" data-src="images/sliders/slider-1.jpg" alt="" />              
 	</div>  

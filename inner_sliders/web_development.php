@@ -12,10 +12,8 @@
          data-effect="scale(5,1.6)"       
          data-src="images/inner_slider/php-img.png"/>         
 	</div>
-
         <div class="ms-slide slide-1" data-delay="3">
         <img src="images/sliders/slider-1.jpg" data-src="images/sliders/slider-3.jpg" alt="" />
-
 <img class="ms-layer" alt="bootstrap conversion" style="top:227.84px; left:136.086px"
          data-offset-x      = "10"
          data-offset-y      = "15"
