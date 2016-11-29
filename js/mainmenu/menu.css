@@ -14,11 +14,6 @@
 .megamenu li a{padding: 10px;float:left;color:#FFF;}
 .megamenu li a:hover{}
 
-/* .navbar-nav > li > .dropdown-menu {
-	display: none;
-} */
-
-
 ul.nav>li>a:hover {
 	color:#7399e7;
 }
