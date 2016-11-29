@@ -15,7 +15,7 @@
 .megamenu li a:hover{}
 
 .navbar-nav > li > .dropdown-menu {
-	margin-top: 19px !important;
+	display: none;
 }
 
 
