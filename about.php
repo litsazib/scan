@@ -1,11 +1,11 @@
-<?php $title="About us"; //Page title require_once('header.php'); ?>
+<?php require_once('header.php'); ?>
+<div class="clearfix"></div>
 <?php require_once('inner_sliders/about-us.php') ?>
-<div class="clearfix margin_bottom7"></div>
+<div class="clearfix margin_bottom5"></div>
+<!-- <h1 class="center_s">About us</h1> -->
+
 <div class="container">
-<h1 class="center_s">About us</h1>
-</div>
-<div class="container">
-<h2 class="caps center" id="overview">About Us</h2>
+<!-- <h2 class="caps center" id="overview">About Us</h2> -->
 <div class="divider_line11"></div>
 <div class="one_half">
 <p>Scan Bangladesh is an ISO 9001:2008 certified software development and web development Company based in Bangladesh. Headquartered in Mohali, Punjab, we are providing IT solutions and IT-enabled services. Ever since our establishment, we have grown every day to meet the growing demands of our clients and surpass their expectations.</p>
@@ -43,10 +43,16 @@
 <img src="images/whyus.jpg" width="100%"/>
 </div>
 </div>
-<div class="clearfix margin_bottom5"></div>
+
+
+
+<div class="technology">
+<div class="container">
+<div class="">
+<h1 class="center_s">Our Technology</h1>
+</div>
+<?php require_once('inner_sliders/technology.php'); ?>
 </div>
 </div>
-<div class="clearfix"></div>
-<div class="feature_section6 sty2"></div>
-<div class="clearfix"></div>
+<div class="clearfix margin_bottom3"></div>
 <?php require_once('footer.php') ?>

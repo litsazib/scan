@@ -20,7 +20,15 @@
 <div class="secarea">
 <div class="container">
 <div class="one_fourth">
-<h4 class="white">Facebook Page</h4>
+<h4 class="white">Our Service</h4>
+<ul class="foolist">
+<li><a href="#">Software development</a></li>
+<li><a href="#">Apps Development</a></li>
+<li><a href="#">E-commerce</a></li>
+<li><a href="#">SEO</a></li>
+<li><a href="#">Domain & Hosting</a></li>
+<li><a href="#">Digital Markating</a></li>
+</ul>
 </div>
 <div class="one_fourth">
 <h4 class="white">Our Service</h4>

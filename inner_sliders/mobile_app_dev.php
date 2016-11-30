@@ -12,8 +12,6 @@
          data-effect="scale(5,1.6)"        
          data-src="images/inner_slider/mov.png"/> 
 	</div>
-      <div class="ms-slide slide-1" data-delay="2">
-        <img src="images/sliders/slider-1.jpg" data-src="images/sliders/slider-1.jpg" alt="" />              
-	</div>  
+
 </div>
 </div>
